@@ -1,13 +1,18 @@
-# Criar site completo com 4 páginas.
+# Criar site 'quase' completo com 4 páginas.
+#### Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
+>Formulários, Estruturação e formatação de texto, Mídias, Tabelas, Além de outro
+#
 <!-- ✅ -->
-## ⬜️ Home
-## ⬜️ Sobre
-## ⬜️ Horário de atendimento
-## ⬜️ Contato
+
+## Páginas:
+### ⬜️ Home
+### ⬜️ Sobre
+### ⬜️ Horário de atendimento
+### ⬜️ Contato
 #
 
 ## Página Principal
-### ⬜️ Imagem no Header. 
+### ✅ Imagem no Header. 
 ### ⬜️ Em Content(centro da pg) uma breve descrição sobre a clínica.
 ### ⬜️ Menu e Footer padrões em todas as páginas.
 #
