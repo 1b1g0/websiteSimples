@@ -1,12 +1,12 @@
 
 body{
     height: 100%;
-    margin: 0;
+    margin: 0px;
     font-family: Arial, Helvetica, sans-serif;
 }
 .main{
     display: flex;
-    padding: 0;
+    padding: 0px;
     background-color:rgb(5, 16, 29);
 }
 .menu a{
@@ -71,6 +71,9 @@ body{
 .content {
     color: rgb(221, 234, 248);
     margin-top: 1em;
+    margin-left: 2em;
+    margin-right: 2em;
+    text-align: center;
 }
 .content h1{
     font-size: 45px;
@@ -78,15 +81,32 @@ body{
     padding: 0em 1em;
     margin:unset;
     font-weight: 800;
-    
+}
+.mainTxt{
+    color: aqua;
+    padding-right: 8em;
 }
 
-.txtContent{
-    font-size: medium;
-    font-weight: 100;
+.content h2{
+    margin-top: 2em;
     text-align: center;
-    margin:unset;
-    padding: 2em 6em 2em 6em;
-
+    margin-bottom: 2em;
+}
+.content ul{
+    display: flex;
+    margin: unset;
+    justify-content: center;
+    list-style: none;
+    font-weight: 600;
+    padding: 0px;
+}
+div.content ul div p{
+    font-size: 40px;
+    padding: none;
+    margin: -10px;
+}
+.content li{
+    margin: 2em;
+    
 }
 
