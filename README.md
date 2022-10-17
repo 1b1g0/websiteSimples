@@ -5,28 +5,28 @@
 <!-- ✅ -->
 
 ## Páginas:
-### ⬜️ Home
-### ⬜️ Sobre
+### ✅ Home
+### ✅ Sobre
 ### ⬜️ Horário de atendimento
 ### ⬜️ Contato
 #
 
 ## Página Principal
 ### ✅ Imagem no Header. 
-### ⬜️ Em Content(centro da pg) uma breve descrição sobre a clínica.
-### ⬜️ Menu e Footer padrões em todas as páginas.
+### ✅ Em Content(centro da pg) uma breve descrição sobre a clínica.
+### ✅ Menu e Footer padrões em todas as páginas.
 #
 
 ## Sobre a clínica
-### ⬜️ Imagem diferente no Header.
-### ⬜️ Em Content um texto falando sobre a clínica.
-### ⬜️ Menu e Footer padrões em todas as páginas.
+### ✅ Imagem diferente no Header.
+### ✅ Em Content um texto falando sobre a clínica.
+### ✅ Menu e Footer padrões em todas as páginas.
 #
 
 ## Horário de Atendimento
-### ⬜️ Imagem diferente no Header.
+### ✅ Imagem diferente no Header.
 ### ⬜️ Em Content um pequeno texto falando sobre os serviços, e uma tabela de preços, onde cada linha é um serviço, com o preço de cada um de acordo com os dias da semana.
-### ⬜️ Menu e Footer padrões em todas as páginas.
+### ✅ Menu e Footer padrões em todas as páginas.
 
 ### HTML da tabela de horários:
 <table border="1" style="width:auto;font-size:8px;">
