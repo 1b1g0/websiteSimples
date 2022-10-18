@@ -7,8 +7,8 @@
 ## Páginas:
 ### ✅ Home
 ### ✅ Sobre
-### ⬜️ Horário de atendimento
-### ⬜️ Contato
+### ✅ Horário de atendimento
+### ✅ Contato
 #
 
 ## Página Principal
