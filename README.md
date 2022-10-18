@@ -123,13 +123,13 @@
 
 #
 ## Contato
-### ⬜️ Imagem diferente no Header.
+### ✅ Imagem diferente no Header.
 ### Em Content deve ter: 
 #### ✅ Os telefones de contato (celular e whatsapp)
 #### ✅ Endereço completo da clínica
 #### ✅ Um Iframe com o Google Maps apontando o endereço da clínica
 #### ✅ Um formulário de contato com:
 > Nome (type="text"), E-mail (type="email"), Assunto (type="text"), Mensagem (textarea).
-#### ⬜️ Botões de enviar e limpar formulário.
+#### ✅ Botões de enviar e limpar formulário.
 #### ✅ Menu e Footer padrões em todas as páginas.
 #
