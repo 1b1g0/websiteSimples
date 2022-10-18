@@ -25,7 +25,7 @@
 
 ## Horário de Atendimento
 ### ✅ Imagem diferente no Header.
-### ⬜️ Em Content um pequeno texto falando sobre os serviços, e uma tabela de preços, onde cada linha é um serviço, com o preço de cada um de acordo com os dias da semana.
+### ✅ Em Content um pequeno texto falando sobre os serviços, e uma tabela de preços, onde cada linha é um serviço, com o preço de cada um de acordo com os dias da semana.
 ### ✅ Menu e Footer padrões em todas as páginas.
 
 ### HTML da tabela de horários:
@@ -66,7 +66,6 @@
 	</tbody>
 </table>
 
-#
 
 ### HTML da tabela de preços com horários:
 ##### Como os dados de horário estão relacionados com os preços, decidi agrupar.
